@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning flask
 - 📫 How to reach me: tgallegosslp@gmail.com
 - ⚡ Fun fact: Retired professional soccer player 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyagallegos&theme=shades-of-purple_icons=true" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyagallegos&layout=compact" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyagallegos&theme=shades-of-purple_icons=true" />
+</a>
+
