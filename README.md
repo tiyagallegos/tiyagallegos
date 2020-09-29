@@ -1,4 +1,4 @@
-<img align="center" ![Header](/header.jpg) />
+![Header](/header.jpg {width=40px height=400px})
 
 
 <!--
