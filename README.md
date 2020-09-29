@@ -1,4 +1,4 @@
-<img src="/header.jpg" width="1000" height="500"/>
+<img src="/header.jpg" width="1000" height="800"/>
 
 
 <!--
