@@ -10,10 +10,6 @@ Here are some ideas to get you started:
 
 
 <!------------------------   Untitled design-336x280   ------------------------>
-<script type="text/javascript">
-var bannersnack_embed = {"hash":"buia785it","width":336,"height":280,"t":1600741678,"userId":42459258,"responsive":true,"type":"html5"};
-</script>
-<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
 
 - 🔭 I’m currently working on updating my portfolio and implementing Stripe in django ecommerce application
 - 🌱 I’m currently learning flask
@@ -21,7 +17,7 @@ var bannersnack_embed = {"hash":"buia785it","width":336,"height":280,"t":1600741
 - ⚡ Fun fact: Retired professional soccer player 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyagallegos&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyagallegos&layout=compact&theme=shades-of-purple_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyagallegos&theme=shades-of-purple_icons=true" />
