@@ -1,4 +1,4 @@
-![Header](/header.jpg {width=40px height=400px})
+<img src="/header.jpg" width="200" height="200"/>
 
 
 <!--
