@@ -1,3 +1,8 @@
+![Header](/images/logo.png)
+
+
+
+
 ### Hi I'm Tiya 
 ## Full Stack Software Engineer
 <!--
