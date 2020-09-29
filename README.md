@@ -1,13 +1,6 @@
-![Header](/header.jpg)
-
-![Header](/Untitled design-High-Quality (1).jpg)
+<img align="center" ![Header](/header.jpg) />
 
 
-
-
-
-### Hi I'm Tiya 
-## Full Stack Software Engineer
 <!--
 **tiyagallegos/tiyagallegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
