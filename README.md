@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 <!------------------------   Untitled design-336x280   ------------------------>
 
 - 🔭 I’m currently working on updating my portfolio and implementing Stripe in django ecommerce application
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning flask and building a React SPA
 - 📫 How to reach me: tiyaagallegos@gmail.com
+- 💻 Portfolio <a href="https://www.tiyagallegos.com/">TnTech
 - ⚡ Fun fact: Retired professional soccer player 
 
 <a href="https://github.com/anuraghazra/convoychat">
