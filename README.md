@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on updating my portfolio and implementing Stripe in django ecommerce application
 - 🌱 I’m currently learning flask
-- 📫 How to reach me: tgallegosslp@gmail.com
+- 📫 How to reach me: tiyaagallegos@gmail.com
 - ⚡ Fun fact: Retired professional soccer player 
 
 <a href="https://github.com/anuraghazra/convoychat">
