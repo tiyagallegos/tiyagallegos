@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on updating my portfolio, building a seed share React SPA to uplift seed sovereignty, and building and MERN stack app for a non profit organization supporting reducing debt of the black community
 - 🌱 I’m currently learning flask and building a React SPA
 - 📫 How to reach me: tiyaagallegos@gmail.com
-- 💻 Portfolio <a href="https://www.tiyagallegos.com/" target="_blank">TnTech
+- 💻 Portfolio <a href="https://www.tiyagallegos.com/" target="_blank"> TnTech </a>
 - ⚡ Fun fact: Retired professional soccer player 
 
 <a href="https://github.com/anuraghazra/convoychat">
